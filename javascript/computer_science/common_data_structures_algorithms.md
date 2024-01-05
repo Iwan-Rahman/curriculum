@@ -15,7 +15,7 @@ Luckily for you, these complex algorithmic problems have all been solved many ti
 This section contains a general overview of topics that you will learn in this lesson.
 
 - What is a data structure?
-- What are stacks and queues?
+- What are stacks(LIFO) and queues(FIFO)?
 - What's the best way to implement stacks and queues in JavaScript?
 - Why bother having many different search algorithms?
 - What are breadth-first-search (BFS) and depth-first-search (DFS)?
